@@ -6,4 +6,3 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 
 Tech Stack:  BigQuery, SQL functions used (e.g., Window functions, CTEs),  Looker Studio.
 
-code link:https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1salien-segment-491118-d3!2sasia-south1!3s28d0d0ae-978f-4dc6-bfc1-167e4ad85460!2e1
